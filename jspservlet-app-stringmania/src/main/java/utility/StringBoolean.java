@@ -2,9 +2,6 @@ package utility;
 
 public class StringBoolean {
 //	Enter the code here....
-package com.example.stringmania;
-
-public class StringMethod {
     private String input;
 
     // Getter and Setter for input
